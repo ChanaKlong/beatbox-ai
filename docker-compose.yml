@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  python-api:
+    build: .
+    restart: always
+
+networks:
+  chanaklong-network:
