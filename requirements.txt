@@ -1,5 +1,8 @@
-gradio==4.38.1
-librosa==0.10.2.post1
-numpy==1.24.4
-soundfile==0.12.1
-torch==2.1.2
+fastapi
+python-multipart
+uvicorn
+librosa
+soundfile
+numpy
+torch
+gradio
